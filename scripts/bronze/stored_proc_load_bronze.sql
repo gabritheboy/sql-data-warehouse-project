@@ -13,7 +13,7 @@ Parameters:
 	  This stored procedure does not accept any parameters or return any values.
 
 Usage Example:
-    CALL bronze.load_bronze;
+    CALL bronze.load_bronze();
 ===============================================================================
 */
 
