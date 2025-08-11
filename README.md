@@ -1,7 +1,8 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse Project** repository! 🚀  
+Welcome to the **Data Warehouse Project** repository! 🚀 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. 
+
 ---
 ## 🏗️ Data Architecture
 
@@ -81,5 +82,5 @@ I’m a professional Data Engineer passionate about his job!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/gabriele-crimi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-crimi/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.datawithbaraa.com](https://www.gabrielecrimi.tech/))
